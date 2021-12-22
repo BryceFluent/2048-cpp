@@ -1,0 +1,3 @@
+/home/csis/2610/Project 3 All Versions/Project3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/csis/2610/Project 3 All Versions/Project3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/csis/2610/Project 3 All Versions/Project3/cmake-build-debug/CMakeFiles/Project3.dir
